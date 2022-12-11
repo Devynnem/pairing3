@@ -3,4 +3,9 @@ for (i = 0; i < numbers.length; i++) {
     if (numbers.at(i) > 30){
         console.log(numbers.at(i))
     }
-}
+} 
+for (i = 0; i < numbers.length; i++) {
+    if (numbers.at(i) < 60){
+        console.log(numbers.at(i))
+    }
+} 
